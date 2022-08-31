@@ -22,3 +22,9 @@ This tool works in both python 2.x and python 3.x versions
 
 ### Donation
 **if you want you can donate to me at: _[klik](https://saweria.co/pausi)_**
+
+
+#####You can get the api from the below####
+viewdns.info
+hackertarget.com
+yougetsignal.com
